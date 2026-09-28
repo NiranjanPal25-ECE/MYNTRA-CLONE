@@ -383,3 +383,6 @@ a.action_container:link {
   height: 14px;
   cursor: pointer;
 }
+.remove{
+    background-color: rgb(249, 89, 89);
+}
