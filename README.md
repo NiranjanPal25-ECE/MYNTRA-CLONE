@@ -2,4 +2,4 @@
 
 ## Website Preview
 
-![Myntra Clone Website](images/myntra-website.png)
+![Myntra Clone Website](myntra-website.png)
